@@ -23,3 +23,15 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+Bootstrap for layout
+Devise for authentication
+
+Stock_quote gem for stock quotes
+
+
+# Models
+  users
+  stocks
+  user_stock - many to many relation
