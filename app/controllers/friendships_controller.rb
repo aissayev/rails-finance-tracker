@@ -6,4 +6,5 @@ class FriendshipsController < ApplicationController
       format.html { redirect_to my_friends_path, notice: "Friend was successfully removed" }
     end
   end
+  
 end

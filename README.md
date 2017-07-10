@@ -35,3 +35,11 @@ Stock_quote gem for stock quotes
   users
   stocks
   user_stock - many to many relation
+  
+## Authentication system, users can sign-up, edit their profile, log in/logout
+## Users can track stocks, up to 10 per user. The profile page will display all the current stock prices
+## Users can search for stock symbol using a search bar
+## Users can choose to add a stock from results of search to their portfolio
+## Users can look for friends, or other users of the app, by name(first or last or email)
+## Users can view portfolio of stocks their friends are tracking for investing ideas
+## Must be mobile friendly, so the styling has to be responsive
